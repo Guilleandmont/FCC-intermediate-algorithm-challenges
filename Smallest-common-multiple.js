@@ -26,10 +26,12 @@ function smallestCommons(arr) {
     return common;
 }
   
-console.log(smallestCommons([1,23]));
+console.log(smallestCommons([1,5]));
+//60
 
 //This takes too long. I guess that's just the nature of the problem, but good maths can probably make this
     //much easier for larger inputs.
 //Things to improve:
     //How about using sort instead of max and mix?
     //Is making an array with all numbers necessary?
+    //I don't like the use of the while loop
