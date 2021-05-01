@@ -103,9 +103,8 @@ console.log(
 //Final thoughts:
 //This is the last challenge in the Javascript certification. If you've made it this far,
 //congrats!
-//In my opinion the hardest part of the challenge is nailing down the logic of
-//getting the math right. Make sure you understand well what you're being asked
-//and plan out how you're going to solve the problem. Testing algorithms yourself
+// Make sure you understand well what you're being asked 
+// and plan out how you're going to solve the problem. Testing algorithms yourself
 //with a piece of paper of a whiteboard can be very helpful.
 
 //In this challenge I learned the importance of debugging (particularly, VS Code has a very
